@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "846223058023",
+    "project_id": "todoapp-6887a",
+    "storage_bucket": "todoapp-6887a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846223058023:android:e942edc7fc9532332b60c2",
+        "android_client_info": {
+          "package_name": "com.example.kairiz3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4MPUR_bQD8sR5ABLAkaX-rU43lOiB63w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
