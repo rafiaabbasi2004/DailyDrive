@@ -1,10 +1,7 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# kairiz3
 
 A new Flutter project.
 
-## Getting Started
+
 
 This project is a starting point for a Flutter application.
 
@@ -20,7 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 # DailyDrive
 A flutter app that keeps track of your daily tasks
 >>>>>>> 306b845ca9b9db73e3059f4b3ae0bcaad12cf0e2
-=======
-# DailyDrive
-A flutter app that keeps track of your daily tasks
->>>>>>> a0bbe21f07d57d81ea3f6baf189213fea03d64c6
+
